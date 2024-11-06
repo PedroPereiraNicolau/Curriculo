@@ -104,7 +104,8 @@ st.header("Contatos")
 st.markdown("""
 - **Email**: [pedronico76@gmail.com]
 - **LinkedIn**: [LinkedIn - Seu Nome](https://www.linkedin.com/in/seunome/)  
-- **GitHub**: [GitHub - Seu Nome](https://github.com/seunome)  
+- **GitHub**: [GitHub - Seu Nome](https://github.com/PedroPereiraNicolau)  
+- **Celular**: (16) 99991-3765
  
 """)
 
